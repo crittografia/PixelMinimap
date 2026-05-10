@@ -38,9 +38,4 @@ In the process of writing...
 ## <a id="checklist">Checklist</a>
 In the process of compilation...
 
-## <a id="contacts">Contacts</a>
-|Contact  |Role            |VK                                            |Discord |
-|:-------:|:--------------:|:--------------------------------------------:|:------:|
-|KeepssMe |Owner, Developer|[Алена Воронцова](https://vk.com/alenacrowkar)|keepssme|
-
-Date of update: 22.04.2024
+Date of update: 10.05.2026
