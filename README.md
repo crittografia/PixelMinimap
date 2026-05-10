@@ -8,9 +8,3 @@ To find out more information about the minimap, its capabilities and their descr
 [English](readmes/canvases/pixelplanet/README_EN.md)
 [Русский](readmes/canvases/pixelplanet/README_RU.md)  
 
----
-
-### Contacts
-|Contact  |Role            |VK                                            |Discord |
-|:-------:|:--------------:|:--------------------------------------------:|:------:|
-|KeepssMe |Owner, Developer|[Алена Воронцова](https://vk.com/alenacrowkar)|keepssme|
