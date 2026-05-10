@@ -1,4 +1,4 @@
-# Pixel Minimap  
+# Pixel Minimap  (Fork)
 Welcome to the minimap home page.  
 To find out more information about the minimap, its capabilities and their description, select the canvas and language you need below.
 
