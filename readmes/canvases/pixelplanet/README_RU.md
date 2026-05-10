@@ -10,7 +10,7 @@
 ## <a id="installation">Установка</a>
 1. Установить расширение [Tampermonkey](https://www.tampermonkey.net) для вашего браузера  
 (Его можно скачать с официального сайта, а так же найти в каталоге расширений вашего браузера)  
-2. Открыть [Ссылка 1](https://github.com/KeepssMe/PixelMinimap/raw/master/minimap.user.js) или [Ссылка 2](https://raw.githubusercontent.com/KeepssMe/PixelMinimap/master/minimap.user.js)
+2. Открыть [Ссылка 1](https://github.com/crittografia/PixelMinimap/raw/master/minimap.user.js) или [Ссылка 2](https://raw.githubusercontent.com/crittografia/PixelMinimap/master/minimap.user.js)
 3. Нажать кнопку "Установить" (Install)
 4. Открыть/перезагрузить сайт [PixelPlanet](https://pixelplanet.fun)  
 
