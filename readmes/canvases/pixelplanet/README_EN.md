@@ -27,7 +27,7 @@ __If your templates are not displayed, continue__
 9. Enable settings, some settings you may not have, ignore missing ones:  
 - In the "Experimental" section, change the "Inject mode" to "Instant";  
 ![Install screen 5_1](../../files/configuration/step5_1_en.png)  
-- In the "Security" section, change the "Content Script API" to "UserScripts API Dynamyc" __(Remember to click the "Save" button at the end of this section)__;  
+- In the "Security" section, change the "Content Script API" to "UserScripts API Dynamic" __(Remember to click the "Save" button at the end of this section)__;  
 ![Install screen 5_2](../../files/configuration/step5_2_en.png)  
 
 __If you still don't see any templates after that, [contact the author](#contacts)__
