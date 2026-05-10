@@ -10,7 +10,7 @@ This file contains information about the minimap for the [PixelPlanet](https://p
 ## <a id="installation">Installation</a>
 1. Install the [Tampermonkey](https://www.tampermonkey.net) extension for your browser  
 (It can be downloaded from the official website or it can be found in the extensions store of your browser)  
-2. Open [Link 1](https://github.com/KeepssMe/PixelMinimap/raw/master/minimap.user.js) or [Link 2](https://raw.githubusercontent.com/KeepssMe/PixelMinimap/master/minimap.user.js)
+2. Open [Link 1](https://github.com/crittografia/PixelMinimap/raw/master/minimap.user.js) or [Link 2](https://raw.githubusercontent.com/crittografia/PixelMinimap/master/minimap.user.js)
 3. Click the "Install" button
 4. Open/reload site [PixelPlanet](https://pixelplanet.fun)  
 
