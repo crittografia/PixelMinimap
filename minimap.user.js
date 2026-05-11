@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name Pixel Minimap
 // @description Fork of KeepsMe's Minimap
-// @version 1.0.8
+// @version 1.0.8-a
 // @author KeepssMe | Thanks: Sallbet, Danvo
 // @exclude https://git.pixelplanet.fun/
 // @exclude https://*.pixelplanet.fun/globe
